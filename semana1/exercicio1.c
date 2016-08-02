@@ -10,9 +10,9 @@ typedef struct
 
 void atualizar(DATA* pontData, int dia, int mes, int ano)
 {
-	pontData->dia = dia;
-	pontData->mes = mes;
-	pontData->ano = ano;
+    pontData->dia = dia;
+    pontData->mes = mes;
+    pontData->ano = ano;
 }
 
 int main()
@@ -28,5 +28,5 @@ int main()
     assert(meuAniversario.mes == 9);
     assert(meuAniversario.ano == 1981);
 
-	return 0;
+    return 0;
 }
