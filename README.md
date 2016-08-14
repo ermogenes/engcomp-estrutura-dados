@@ -2,7 +2,10 @@
 Meus arquivos relativos à disciplina Estrutura de Dados do curso de Engenharia da Computação da Univesp.
 
 ## Semana 1
-* Exercícios
+* Exercícios 1 e 2
+
+## Semana 2
+* Exercícios 1 e 2
 
 ## Créditos
 
