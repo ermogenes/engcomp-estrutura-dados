@@ -11,6 +11,10 @@ Meus arquivos relativos à disciplina Estrutura de Dados do curso de Engenharia 
 * Exercício de apoio 1
 * Exercícios 1 e 2
 
+## Semana 4
+* Exercícios 1 e 2 (no mesmo arquivo)
+* Saída dos Exercícios 1 e 2, para conferência
+
 ## Créditos
 
 **Exercícios**: [Univesp](http://engenharia.cursos.univesp.br/)
