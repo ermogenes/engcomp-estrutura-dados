@@ -18,6 +18,10 @@ Meus arquivos relativos à disciplina Estrutura de Dados do curso de Engenharia 
 ## Semana 5
 * Exercícios 1 e 2
 
+## Semana 6
+* Exercício 1
+* Exercício 2 (imagens)
+
 ## Créditos
 
 **Exercícios**: [Univesp](http://engenharia.cursos.univesp.br/)
